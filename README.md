@@ -1,4 +1,4 @@
-# Neuroventis
+# Seizure project
 
 The username and password is stored in conf.ini
 
